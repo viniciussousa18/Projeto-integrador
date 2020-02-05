@@ -17,37 +17,35 @@
 <form action = "gravar.php" method="post">
 <center>
 	<b>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a href="Index1.html"class="navbar-brand" href="#"><img src="img/logo.jpg"></a>  
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#"><img src="img/logo.jpg"></a>  
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				  <span class="navbar-toggler-icon"></span>
 				</button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent" body style="background-color: rgba(223, 107, 12, 0.884)">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link"href="Index.html" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link"  href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
 				<li class="nav-item">
-                    <a class="nav-link" href="Promoçoes.html">Promoções</a> 
+                    <a class="nav-link" href="Promoçoes.html" >Promoções</a> 
                 </li>
-                <li class="nav-link">
-                    <a class="nav-link" href="Contato.php">Fale Conosco</a> 
+                <li class="nav-item">
+                    <a class="nav-link" href="Contato.php" >Fale Conosco</a> 
                 </li>
 				<li class="nav-link">
-                    <a class="nav-link" href="Academia.html"  >Academia</a> 
+                    <a class="nav-link" href="Academia.html">Academia</a> 
                 <li class="nav-link">
-               <a class="nav-link" href="Quemsomos.html" >Quem Somos</a> 
-					  </a>
-                    
+               <li class="nav-link">
+                    <a class="nav-link" href="Quemsomos.html">Quem Somos</a> 
                     </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a> 
                 </li>
             </ul>
+			
 			 
-            <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="search" placeholder="Buscar..." aria-label="Search">
-                <button type="button" class="btn btn-outline-secondary">Buscar</button>
+           
         </div>
     </nav>
 	
@@ -69,7 +67,7 @@
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14706.71909247309!2d-43.5330479!3d-22.8513341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc96f992239ce036b!2sAcademia%20Wellness!5e0!3m2!1spt-BR!2sbr!4v1575911864010!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
                     <div class="col-sm">
-        
+                    <fieldset>
             Nome..:
             <br>
             <input type ="text" name = "nome"/>
@@ -89,7 +87,7 @@
             <br><br>
             <input type= "submit" value ="Cadastrar cliente">
             <input type= "reset" value ="limpar ">
-            
+            </fieldset>
             </form>
         </div>
  
