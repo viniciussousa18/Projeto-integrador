@@ -68,23 +68,21 @@
                 </div>
                     <div class="col-sm">
                     <fieldset>
-            Nome..:
+            Nome:
             <br>
             <input type ="text" name = "nome"/>
             <br><br>
-        Telefone..:
+        Telefone:
             <br>
             <input type ="number" name = "telefone"/>
             <br><br>
-            Email..:
+            Email:
             <br>
             <input type ="text" name = "email"/>
             <br><br>
-            Mensagem..:
+            <label for="exampleFormControlTextarea1">Mensagem</label>
+          <textarea class="form-control col-6" id="exampleFormControlTextarea1" rows="3"></textarea>
             <br>
-            <input type ="text" name = "mensagem"/>
-            <br><br>
-            <br><br>
             <input type= "submit" value ="Cadastrar cliente">
             <input type= "reset" value ="limpar ">
             </fieldset>
