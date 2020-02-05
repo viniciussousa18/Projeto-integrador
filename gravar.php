@@ -26,7 +26,7 @@ $sql = "insert into cliente values(null,'".$nome."','".$telefone."','".$email."'
 //3 - abrir conexão com o banco de dados 
 
 //con = mysqli_connect(servidor,usuario,senha,banco);
-$con = mysqli_connect("localhost","root","","PROJETO-INTEGRADOR");
+$con = mysqli_connect("localhost","root","","projeto");
 
 //4- gravar os dados no banco 
 //mysqli-query grava numa conexão os dados 

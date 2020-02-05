@@ -14,6 +14,7 @@
 </head>
 
 <body>
+<form action = "gravar.php" method="post">
 <center>
 	<b>
     <nav class="navbar navbar-expand-lg navbar-light bg-light"><a href="Index1.html"class="navbar-brand" href="#"><img src="img/logo.jpg"></a>  
@@ -29,7 +30,7 @@
                     <a class="nav-link" href="Promoçoes.html">Promoções</a> 
                 </li>
                 <li class="nav-link">
-                    <a class="nav-link" href="Contato.html">Fale Conosco</a> 
+                    <a class="nav-link" href="Contato.php">Fale Conosco</a> 
                 </li>
 				<li class="nav-link">
                     <a class="nav-link" href="Academia.html"  >Academia</a> 
@@ -68,8 +69,7 @@
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14706.71909247309!2d-43.5330479!3d-22.8513341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc96f992239ce036b!2sAcademia%20Wellness!5e0!3m2!1spt-BR!2sbr!4v1575911864010!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
                     <div class="col-sm">
-    <fieldset>
-        <form action = "gravar.php" method="post">
+        
             Nome..:
             <br>
             <input type ="text" name = "nome"/>
@@ -92,7 +92,7 @@
             
             </form>
         </div>
-    </fieldset>
+ 
 </div>
 </div>
 </form>
