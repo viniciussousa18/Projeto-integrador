@@ -1,15 +1,16 @@
-H1{font-size: 36pt; color: Blue; text-align:center;}
+H1{font-size: 36pt; color:white; text-align:center;}
 a{font:16px verdana;
-text-align:center;}
+text-align:center;
+color: white;}
 p{
 text-align:center;
  font-weight: bold;
-color: 	#00BFFF}
+color: white;}
 label{
  font-weight: bold;
-color: 	#00BFFF}
+color: 	white;}
 fieldset{
-color: Blue;}
-h5{color: Blue;}
-nav{color: Blue;}
+color: white;}
+h5{color: white;}
+nav{color: white;}
 
