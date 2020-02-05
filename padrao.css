@@ -1,16 +1,16 @@
-H1{font-size: 36pt; color:white; text-align:center;}
+H1{font-size: 36pt; color:rgba(223, 107, 12, 0.884); text-align:center;}
 a{font:16px verdana;
 text-align:center;
-color: white;}
+color: rgba(223, 107, 12, 0.884);}
 p{
 text-align:center;
  font-weight: bold;
-color: white;}
+color: rgba(223, 107, 12, 0.884);}
 label{
  font-weight: bold;
-color: 	white;}
+color: 	rgba(223, 107, 12, 0.884);}
 fieldset{
-color: white;}
-h5{color: white;}
-nav{color: white;}
+color: rgba(223, 107, 12, 0.884);}
+h5{color: rgba(223, 107, 12, 0.884);}
+nav{color: rgba(223, 107, 12, 0.884);}
 
