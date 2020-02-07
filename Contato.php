@@ -70,35 +70,14 @@
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14706.71909247309!2d-43.5330479!3d-22.8513341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc96f992239ce036b!2sAcademia%20Wellness!5e0!3m2!1spt-BR!2sbr!4v1575911864010!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
                     <div class="col-sm">
-<<<<<<< HEAD:Contato.html
-    <fieldset>
-        <form action="gravarartigo.php" method="post" enctype="multipart/form-data">
-        <legend color="RED">Dados pessoais</legend>
-           <div class="form-group">
-            <label for="nome">Nome completo</label>
-            <input type="text" class="form-control" id="nome" name="nome">
-    </div>
-        <div class="form-group">
-                <label for="tel">Telefone</label>
-                <input type="text" class="form-control" id="tel" name="tel">
-    </div>
-        <div class="form-group">
-            <label for="email">Email</label>
-            <input type="email" class="form-control" id="email" name="email">
-            </div>
-        <div class="form-group">
-            <label for="mensagem">mensagem</label>
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="1"></textarea>
-</div>  
-<div class="form-group">
-            <button type="submit" class="btn btn-primary">Enviar</button>
-=======
+
+
                     <fieldset>
             Nome:
             <br>
             <input type ="text" name = "nome"/>
             <br><br>
-        Telefone:
+           Telefone:
             <br>
             <input type ="number" name = "telefone"/>
             <br><br>
@@ -114,7 +93,6 @@
             <input type= "reset" value ="limpar ">
             </fieldset>
             </form>
->>>>>>> cb58c4e468cb84080c00c148f3000bd15e6ea43a:Contato.php
         </div>
  
 </div>
