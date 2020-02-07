@@ -60,8 +60,8 @@
   <img src="https://img.icons8.com/color/48/000000/whatsapp.png"> 21-98745213</p>
   <hr class="my-4">
   <fieldset>
-  <p>Cuidar do corpo e da saúde não tem nada a ver com parecer bem, mas sim com estar bem pra você e com você!<BR></p>
-  <p><legend>Localização</legend></p>
+  <p>Cuidar do corpo e da saúde não tem nada a ver com parecer bem, mas sim com estar bem pra você e com você!<br></p>
+  <h2>Localização</h2>
   </fieldset>
     <div class="container">
         <form>
