@@ -83,9 +83,10 @@
             <br>
             <input type ="text" name = "email"/>
             <br><br>
-            <label for="exampleFormControlTextarea1">Mensagem</label>
-          <textarea class="form-control col-6" id="exampleFormControlTextarea1" rows="3"></textarea>
-            <br>
+			Mensagem:
+			<br>
+			<textarea name="mensagem"></textarea> <br>
+            
             <input type= "submit" value ="Cadastrar cliente">
             <input type= "reset" value ="limpar ">
             </fieldset>
