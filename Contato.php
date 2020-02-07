@@ -17,7 +17,7 @@
 <form action = "gravar.php" method="post">
 <center>
 	<b>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#"><img src="img/logo.jpg"></a>  
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="index.html"><img src="img/logo.jpg"></a>  
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				  <span class="navbar-toggler-icon"></span>
 				</button>
@@ -46,6 +46,9 @@
 			
 			 
            
+
+
+
         </div>
     </nav>
 	
@@ -103,9 +106,10 @@
             <br>
             <input type ="text" name = "email"/>
             <br><br>
-            <label for="exampleFormControlTextarea1">Mensagem</label>
-          <textarea class="form-control col-6" id="exampleFormControlTextarea1" rows="3"></textarea>
-            <br>
+			Mensagem:
+			<br>
+			<textarea name="mensagem"></textarea> <br>
+            
             <input type= "submit" value ="Cadastrar cliente">
             <input type= "reset" value ="limpar ">
             </fieldset>
