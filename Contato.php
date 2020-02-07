@@ -97,12 +97,6 @@
 </div>
 </form>
 <!-- -->
-<footer id="myFooter" class="page-footer font-small cyan darken-3">
-            <div class="footer-copyright text-center py-3">© 2019 Copyright:
-                <a href="https://getbootstrap.com/"> Bootstrap.com</a>
-            </div>   
-        
-       
         </div></footer>
 
 </footer>
