@@ -1,16 +1,34 @@
-H1{font-size: 36pt; color:rgba(223, 107, 12, 0.884); text-align:center;}
-a{font:16px verdana;
-text-align:center;
-color: rgba(223, 107, 12, 0.884);}
-p{
-text-align:center;
- font-weight: bold;
-color: rgba(223, 107, 12, 0.884);}
-label{
- font-weight: bold;
-color: 	rgba(223, 107, 12, 0.884);}
-fieldset{
-color: rgba(223, 107, 12, 0.884);}
-h5{color: rgba(223, 107, 12, 0.884);}
-nav{color: rgba(223, 107, 12, 0.884);}
+H1 {
+    font-size: 36pt;
+    color: rgba(223, 107, 12, 0.884);
+    text-align: center;
+}
 
+a {
+    font: 16px verdana;
+    text-align: center;
+    color: rgba(223, 107, 12, 0.884);
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    color: rgba(223, 107, 12, 0.884);
+}
+
+label {
+    font-weight: bold;
+    color: rgba(223, 107, 12, 0.884);
+}
+
+fieldset {
+    color: rgba(223, 107, 12, 0.884);
+}
+
+h5 {
+    color: rgba(223, 107, 12, 0.884);
+}
+
+nav {
+    color: rgba(223, 107, 12, 0.884);
+}
