@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="windth=device-widht, initial-scale.0">
     <title>
-        Academia Smart Fit
+       Strong Fitness
     </title>
 </head>
 
