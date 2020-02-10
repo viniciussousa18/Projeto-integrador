@@ -9,7 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="windth=device-widht, initial-scale.0">
     <title>
+
        Strong Fitness
+
     </title>
 </head>
 
@@ -27,16 +29,19 @@
                     <a class="nav-link"  href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
 				<li class="nav-item">
-                    <a class="nav-link" href="Promoçoes.html" >Promoções</a> 
+                    <a class="nav-link" href="promoçoes.html" >Promoções</a> 
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="Contato.php" >Fale Conosco</a> 
+                  <a class="nav-link" href="treineconosco.php" >Treine Conosco</a> 
+                  </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contato.php" >Fale Conosco</a> 
                 </li>
 				<li class="nav-link">
-                    <a class="nav-link" href="Academia.html">Academia</a> 
+                    <a class="nav-link" href="academia.html">Academia</a> 
                 <li class="nav-link">
                <li class="nav-link">
-                    <a class="nav-link" href="Quemsomos.html">Quem Somos</a> 
+                    <a class="nav-link" href="quemsomos.html">Quem Somos</a> 
                     </div>
                 </li>
                 <li class="nav-item">
