@@ -31,15 +31,22 @@ $con = mysqli_connect("localhost","root","","projeto");
 //4- gravar os dados no banco 
 //mysqli-query grava numa conexão os dados 
 if(mysqli_query($con,$sql)){
-    echo "Cliente cadastrado com sucesso!";
+	echo "<script language=javascript>alert( 'Cliente Cadastrado com Sucesso!' );</script>";
 }else{
-   echo" Erro ao gravar";
+	echo "<script language=javascript>alert( 'Erro ao Gravar!' );</script>";
 }
 mysqli_close($con);
-
-
-
-
-
-
 ?>
+
+<html>
+<head>
+<title>window.location</title>
+<script type="text/javascript">
+	alert("Você será redirecionado");
+	window.location="http://localhost/projeto/Projeto-integrador/treineconosco.php";
+	window.location= "http://localhost/projeto/Projeto-integrador/contato.php";
+</script>
+</head>
+<body>
+</body>
+</html>
